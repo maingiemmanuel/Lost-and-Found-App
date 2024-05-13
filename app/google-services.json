@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338489398010",
+    "project_id": "lostandfoundnew-fabbc",
+    "storage_bucket": "lostandfoundnew-fabbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338489398010:android:66e9bdaf9cc82469b32f43",
+        "android_client_info": {
+          "package_name": "com.emmanuel.lostandfoundnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Yk89KPuf1OisbNouoi2Nn9hoYel5i9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
